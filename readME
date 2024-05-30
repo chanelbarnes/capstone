@@ -1,0 +1,10 @@
+Originally, my project aimed to develop an e-commerce platform where users could buy and sell clothing.
+The primary objective was to implement a system that facilitated user transactions, leveraging MongoDB 
+for data storage and retrieval.
+
+However, during development, I encountered significant challenges with creating and extracting data 
+from MongoDB. As a result, I decided to pivot the project's focus.
+
+In response to these challenges, I developed a weather application that demonstrates CRUD 
+functionality using an external API. This project showcases my ability to integrate external 
+data sources and implement core CRUD operations effectively.
